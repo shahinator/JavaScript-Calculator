@@ -12,7 +12,7 @@
 
 We were tasked with creating a calculator using javascript. This calculator has support for keyboard inputs!
 
-Live link: https://gustavospigoloni.github.io/Calculator/
+Live link: https://shahinator.github.io/JavaScript-Calculator/
 
 ###
 Ever wondered how to build a calculator app in JavaScript? This is an exceptional article to learn how to build a simple calculator application using HTML/CSS and JavaScript. This is assuming that you know the basics like HTML tags and CSS styling. In this article on Calculator in JavaScript, the text editor you will use is VS Code. So, here’s a live demo of the calculator you will build after you follow the step-by-step guide. 
